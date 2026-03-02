@@ -1,0 +1,121 @@
+"age_group","CampaignType","CampaignChannel","customers","conversions","total_spend","conversion_rate","cpa"
+"18-24",Awareness,Email,57,49,233304.48,0.86,4761.32
+"18-24",Awareness,PPC,52,46,235849.55,0.88,5127.16
+"18-24",Awareness,Referral,57,49,282846.32,0.86,5772.37
+"18-24",Awareness,SEO,51,46,257554.22,0.9,5599.0
+"18-24",Awareness,Social Media,50,37,262582.75,0.74,7096.83
+"18-24",Consideration,Email,51,38,215688.47,0.75,5676.01
+"18-24",Consideration,PPC,55,45,282433.9,0.82,6276.31
+"18-24",Consideration,Referral,55,45,258028.06,0.82,5733.96
+"18-24",Consideration,SEO,59,50,292439.61,0.85,5848.79
+"18-24",Consideration,Social Media,62,52,307333.23,0.84,5910.25
+"18-24",Conversion,Email,56,53,285033.37,0.95,5377.99
+"18-24",Conversion,PPC,63,60,322431.9,0.95,5373.87
+"18-24",Conversion,Referral,53,49,270708.35,0.92,5524.66
+"18-24",Conversion,SEO,46,44,212158.38,0.96,4821.78
+"18-24",Conversion,Social Media,43,38,226469.56,0.88,5959.73
+"18-24",Retention,Email,44,37,225241.96,0.84,6087.62
+"18-24",Retention,PPC,41,36,217080.93,0.88,6030.03
+"18-24",Retention,Referral,56,47,272633.32,0.84,5800.71
+"18-24",Retention,SEO,36,32,189406.68,0.89,5918.96
+"18-24",Retention,Social Media,44,35,185610.68,0.8,5303.16
+"25-34",Awareness,Email,82,65,420595.7,0.79,6470.7
+"25-34",Awareness,PPC,90,70,414525.5,0.78,5921.79
+"25-34",Awareness,Referral,102,90,519392.96,0.88,5771.03
+"25-34",Awareness,SEO,64,54,315627.6,0.84,5844.96
+"25-34",Awareness,Social Media,76,66,382475.03,0.87,5795.08
+"25-34",Consideration,Email,79,67,434103.82,0.85,6479.16
+"25-34",Consideration,PPC,67,59,367056.95,0.88,6221.3
+"25-34",Consideration,Referral,77,66,382135.57,0.86,5789.93
+"25-34",Consideration,SEO,63,54,348017.76,0.86,6444.77
+"25-34",Consideration,Social Media,65,55,319807.36,0.85,5814.68
+"25-34",Conversion,Email,99,95,507466.5,0.96,5341.75
+"25-34",Conversion,PPC,79,76,383887.9,0.96,5051.16
+"25-34",Conversion,Referral,69,63,363593.66,0.91,5771.33
+"25-34",Conversion,SEO,77,75,425827.84,0.97,5677.7
+"25-34",Conversion,Social Media,60,55,278817.1,0.92,5069.4
+"25-34",Retention,Email,64,53,347060.05,0.83,6548.3
+"25-34",Retention,PPC,89,73,481422.55,0.82,6594.83
+"25-34",Retention,Referral,80,66,414880.6,0.82,6286.07
+"25-34",Retention,SEO,74,64,366853.64,0.86,5732.09
+"25-34",Retention,Social Media,73,69,391011.22,0.95,5666.83
+"35-44",Awareness,Email,74,63,376585.11,0.85,5977.54
+"35-44",Awareness,PPC,85,78,481847.6,0.92,6177.53
+"35-44",Awareness,Referral,77,72,440205.74,0.94,6113.97
+"35-44",Awareness,SEO,85,74,441445.31,0.87,5965.48
+"35-44",Awareness,Social Media,70,58,385067.56,0.83,6639.1
+"35-44",Consideration,Email,74,69,374653.02,0.93,5429.75
+"35-44",Consideration,PPC,82,70,401856.46,0.85,5740.81
+"35-44",Consideration,Referral,79,71,368976.79,0.9,5196.86
+"35-44",Consideration,SEO,75,66,377278.0,0.88,5716.33
+"35-44",Consideration,Social Media,88,76,416085.32,0.86,5474.81
+"35-44",Conversion,Email,79,72,436049.21,0.91,6056.24
+"35-44",Conversion,PPC,90,86,426166.67,0.96,4955.43
+"35-44",Conversion,Referral,87,81,386000.08,0.93,4765.43
+"35-44",Conversion,SEO,83,79,417721.46,0.95,5287.61
+"35-44",Conversion,Social Media,83,81,364099.6,0.98,4495.06
+"35-44",Retention,Email,76,65,389138.05,0.86,5986.74
+"35-44",Retention,PPC,72,63,351044.26,0.88,5572.13
+"35-44",Retention,Referral,84,74,401715.19,0.88,5428.58
+"35-44",Retention,SEO,68,59,333583.56,0.87,5653.96
+"35-44",Retention,Social Media,74,63,368269.99,0.85,5845.56
+"45-54",Awareness,Email,71,58,336039.22,0.82,5793.78
+"45-54",Awareness,PPC,67,59,325825.5,0.88,5522.47
+"45-54",Awareness,Referral,79,72,380120.04,0.91,5279.44
+"45-54",Awareness,SEO,84,68,390113.67,0.81,5736.97
+"45-54",Awareness,Social Media,81,71,432987.32,0.88,6098.41
+"45-54",Consideration,Email,92,80,455379.43,0.87,5692.24
+"45-54",Consideration,PPC,67,58,349316.18,0.87,6022.69
+"45-54",Consideration,Referral,76,62,409312.18,0.82,6601.81
+"45-54",Consideration,SEO,73,64,335972.38,0.88,5249.57
+"45-54",Consideration,Social Media,86,75,416633.19,0.87,5555.11
+"45-54",Conversion,Email,69,63,366179.05,0.91,5812.37
+"45-54",Conversion,PPC,83,74,406577.04,0.89,5494.28
+"45-54",Conversion,Referral,89,84,452816.9,0.94,5390.68
+"45-54",Conversion,SEO,61,54,329023.34,0.89,6093.02
+"45-54",Conversion,Social Media,80,70,398153.79,0.88,5687.91
+"45-54",Retention,Email,78,66,387294.77,0.85,5868.1
+"45-54",Retention,PPC,84,71,411049.14,0.85,5789.42
+"45-54",Retention,Referral,86,76,441280.21,0.88,5806.32
+"45-54",Retention,SEO,87,75,441756.22,0.86,5890.08
+"45-54",Retention,Social Media,73,64,371631.74,0.88,5806.75
+"55-64",Awareness,Email,59,54,306413.6,0.92,5674.33
+"55-64",Awareness,PPC,83,70,409715.65,0.84,5853.08
+"55-64",Awareness,Referral,79,69,435787.14,0.87,6315.76
+"55-64",Awareness,SEO,73,59,401588.71,0.81,6806.59
+"55-64",Awareness,Social Media,63,56,291398.67,0.89,5203.55
+"55-64",Consideration,Email,66,57,328924.4,0.86,5770.6
+"55-64",Consideration,PPC,90,80,407299.97,0.89,5091.25
+"55-64",Consideration,Referral,86,74,451609.33,0.86,6102.83
+"55-64",Consideration,SEO,63,53,294846.12,0.84,5563.13
+"55-64",Consideration,Social Media,68,58,353341.06,0.85,6092.09
+"55-64",Conversion,Email,72,68,342338.4,0.94,5034.39
+"55-64",Conversion,PPC,92,87,412540.26,0.95,4741.84
+"55-64",Conversion,Referral,102,96,541221.57,0.94,5637.72
+"55-64",Conversion,SEO,96,88,398402.05,0.92,4527.3
+"55-64",Conversion,Social Media,68,62,345982.11,0.91,5580.36
+"55-64",Retention,Email,62,52,320815.45,0.84,6169.53
+"55-64",Retention,PPC,75,68,354689.02,0.91,5216.02
+"55-64",Retention,Referral,76,65,385911.05,0.86,5937.09
+"55-64",Retention,SEO,83,74,404871.05,0.89,5471.23
+"55-64",Retention,Social Media,79,63,361533.28,0.8,5738.62
+"65+",Awareness,Email,35,29,172145.8,0.83,5936.06
+"65+",Awareness,PPC,35,31,189028.18,0.89,6097.68
+"65+",Awareness,Referral,37,29,161910.44,0.78,5583.12
+"65+",Awareness,SEO,33,30,195151.01,0.91,6505.03
+"65+",Awareness,Social Media,37,29,199715.52,0.78,6886.74
+"65+",Consideration,Email,41,34,193403.68,0.83,5688.34
+"65+",Consideration,PPC,43,39,213355.62,0.91,5470.66
+"65+",Consideration,Referral,34,30,166637.37,0.88,5554.58
+"65+",Consideration,SEO,36,26,176000.71,0.72,6769.26
+"65+",Consideration,Social Media,36,28,163347.97,0.78,5833.86
+"65+",Conversion,Email,41,37,213621.84,0.9,5773.56
+"65+",Conversion,PPC,40,37,206209.25,0.93,5573.22
+"65+",Conversion,Referral,45,41,211848.43,0.91,5167.03
+"65+",Conversion,SEO,39,38,197707.31,0.97,5202.82
+"65+",Conversion,Social Media,33,33,171023.99,1.0,5182.55
+"65+",Retention,Email,36,31,204100.58,0.86,6583.89
+"65+",Retention,PPC,31,25,148027.08,0.81,5921.08
+"65+",Retention,Referral,54,47,253947.4,0.87,5403.14
+"65+",Retention,SEO,41,33,197557.16,0.8,5986.58
+"65+",Retention,Social Media,27,25,148945.31,0.93,5957.81
